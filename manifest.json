@@ -1,0 +1,58 @@
+{
+  "AppDescription": {
+    "de": "Spotify pomoodoro time tracking",
+    "en": "Spotify pomoodoro time tracking",
+    "es": "Spotify pomoodoro time tracking",
+    "es-419": "Spotify pomoodoro time tracking",
+    "fr": "Spotify pomoodoro time tracking",
+    "it": "Il Pomodoro in spotify",
+    "nl": "Spotify pomoodoro time tracking",
+    "pl": "Spotify pomoodoro time tracking",
+    "zh-Hant": "Spotify pomoodoro time tracking"
+  },
+  "AppIcon": {
+    "18x18": "images/icons/icon-18x18.png",
+    "36x18": "images/icons/icon-36x18.png",
+    "32x32": "images/icons/icon-32x32.png",
+    "64x64": "images/icons/icon-64x64.png",
+    "128x128": "images/icons/icon-128x128.png",
+    "300x300": "images/icons/icon-300x300.png"
+  },
+  "AppName": {
+    "de": "Spomodoro",
+    "en": "Spomodoro",
+    "es": "Spomodoro in Spanish",
+    "es-419": "Spomodoro in LA Spanish",
+    "fr": "Spomodoro in French",
+    "it": "Spomodoro in Italian",
+    "nl": "Spomodoro in Dutch",
+    "pl": "Spomodoro in Polish",
+    "zh-Hant": "Spomodoro in Chinese"
+  },
+  "BundleIdentifier": "spomodoro",
+  "BundleType": "Application",
+  "BundleVersion": "0.0.1",
+  "Dependencies": {
+    "api": "1.0.0",
+    "views": "1.10.0"
+  },
+  "RequiredPermissions": [
+    "https://api.mygreatapp.com"
+  ],
+  "SupportedDeviceClasses": [
+    "Web",
+    "Desktop"
+  ],
+  "SupportedLanguages": [
+    "de",
+    "en",
+    "es",
+    "es-419",
+    "fr",
+    "it",
+    "nl",
+    "pl",
+    "zh-Hant"
+  ],
+  "VendorIdentifier": "com.mondora"
+}
